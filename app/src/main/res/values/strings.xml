@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Nucleon IoT</string>
+    <string name="default_web_client_id">1033180178034-pdvkuci6ka5m428cgpfi9dpau8a555c4.apps.googleusercontent.com</string>
+
+    <!-- Auth -->
+    <string name="login_title">Selamat Datang</string>
+    <string name="register_title">Buat Akun Baru</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Nama Lengkap</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+
+    <!-- Dashboard -->
+    <string name="welcome_message">Selamat datang, %s</string>
+    <string name="devices_connected">Perangkatmu tersambung</string>
+    <string name="my_devices">Perangkat Saya</string>
+    <string name="no_devices">Belum ada perangkat</string>
+    <string name="add_device">Tambah Perangkat</string>
+
+    <!-- Device Control -->
+    <string name="relay_control">Kontrol Relay</string>
+    <string name="quick_actions">Aksi Cepat</string>
+    <string name="turn_on_all">Nyalakan Semua</string>
+    <string name="turn_off_all">Matikan Semua</string>
+
+    <!-- Profile -->
+    <string name="settings">Pengaturan</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="language">Bahasa</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="account">Akun</string>
+    <string name="change_password">Ganti Password</string>
+    <string name="logout">Keluar</string>
+    <string name="about">Tentang</string>
+
+    <!-- Common -->
+    <string name="next">Lanjut</string>
+    <string name="previous">Kembali</string>
+    <string name="finish">Selesai</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="loading">Memuat…</string>
+    <string name="error_occurred">Terjadi kesalahan</string>
+    <string name="success">Berhasil</string>
+    <string name="failed">Gagal</string>
+</resources>
